@@ -2,4 +2,3 @@
 .DS_Store
 lex.yy.c
 calc
-/inc/calc.tab.*
